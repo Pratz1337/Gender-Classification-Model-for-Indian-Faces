@@ -21,7 +21,7 @@ This project implements a deep learning model for gender classification, specifi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/gender-classification-indian-faces.git
+   git clone https://github.com/Pratz1337/gender-classification-indian-faces.git
    ```
 2. Install the required packages:
    ```
